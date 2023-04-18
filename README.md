@@ -9,7 +9,7 @@
 
 * `cd LIP`
 
-* `python MR-MERA.py`
+* `python META.py`
 
 
 ___This Tool is Free Enjoy Dear User.___</br>
